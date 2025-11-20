@@ -65,5 +65,5 @@ Travel Planning: Skiers can compare destinations based on slopes, lifts, and ele
 Regional Competitiveness: Tourism boards can benchmark countries and improve offerings.
 
 **6. Screenshots / Demos**
-![All text].(https://github.com/Mrabby7/Ski-Analytics-Dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png)
+
 ![Dashboard Preview].(https://github.com/Mrabby7/Ski-Analytics-Dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png)
