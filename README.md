@@ -66,4 +66,4 @@ Regional Competitiveness: Tourism boards can benchmark countries and improve off
 
 **6. Screenshots / Demos**
 
-Dashboard Preview- (https://github.com/Mrabby7/Ski-Analytics-Dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png)
+![Dashboard Preview]- (https://github.com/Mrabby7/Ski-Analytics-Dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png)
